@@ -1,0 +1,9 @@
+*.ts
+!*.d.ts
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+
+lambda/hello/**/*
+!lambda/hello/target/lambda/release/bootstrap.zip
