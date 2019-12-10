@@ -1,3 +1,9 @@
+# Talk
+
+This talk, [Reusable Infrastructure with the AWS CDK and GitHub Packages](https://github.com/octodemo/cdk-packages-reinvent-talk/files/3942778/GitHub.Packages.CDK.reInvent.Booth.Talk.pptx), was given at AWS re:Invent 2019 at the GitHub booth. 
+
+See this repo for the code for the demo.
+
 # Useful commands
 
  * `npm run build`   compile typescript to js
